@@ -1,0 +1,5 @@
+# Code Owners for keithhodo-blog
+* @keithhodo
+
+# Infrastructure and deployment
+/.github/ @keithhodo
