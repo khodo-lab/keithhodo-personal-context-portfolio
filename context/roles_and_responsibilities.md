@@ -1,13 +1,17 @@
 # Roles & Responsibilities
 
-## ☁️ AWS Solutions Architect
-- **Enterprise Readiness:** Evaluating cloud maturity and architectural health for Global Systems Integrators (GSIs).
-- **Strategic Partnership:** Leading the technical relationship with **Deloitte** and **SAP**, specifically within the Technology, Media, and Telecommunications (TMT) industries.
-- **Innovation:** Focusing on the integration of Generative AI (Amazon Bedrock, Claude 3) and infrastructure modernization.
+## ☁️ AWS Solutions Architect & Evangelist
+- **Strategic Partnership:** Technical lead for the **Deloitte** and **SAP** partnership within the Technology, Media, and Telecommunications (TMT) sector.
+- **Thought Leadership:** Frequent speaker and broadcaster on **"AWS on Air"** at re:Invent and host of the **"AWS Made Easy"** technical livestream.
+- **Content Creator:** Training and certification content contributor on Twitch (e.g., "Cloud Essentials").
+
+## 🤖 AI Framework Creator
+- **Kiro Framework:** Developer of **Kiro**, an agentic AI framework for software engineering that utilizes "principal-level review agents" and reusable AI skills.
 
 ## 🏘️ Community Leader
-- **HOA Governance:** Park and Pool Director for the **Kingsgate 1&2 HOA**, managing facility operations and board-level communications.
-- **Supporter Culture:** Legacy Co-President of the **Emerald City Supporters (ECS)**; instrumental in the Sounders FC transition to MLS and organizing "March to the Match."
+- **ECS Legacy:** Former Co-President of the **Emerald City Supporters (ECS)**; foundational leader in Seattle Sounders FC supporter culture.
+- **HOA Governance:** Park and Pool Director for **Kingsgate 1&2 HOA**.
 
-## ⚽ Coach
-- **Youth Sports:** Organizing and coaching for **Juanita B16 Hodo**, fostering teamwork and local sports development.
+## ⚽ Coach & Philanthropist
+- **Youth Soccer:** Coach for **Juanita B16 Hodo**.
+- **Extra Life:** Long-term participant in 24-hour gaming marathons for the **Children’s Miracle Network**.

@@ -1,11 +1,12 @@
 # Domain Knowledge
 
-## ☁️ Cloud Architecture
-- **AWS Specialist:** Enterprise-scale architecture, security best practices, and serverless integration.
-- **FinOps:** Strategic cost optimization and resource management.
+## ☁️ Cloud & Infrastructure
+- **AWS Expert:** Specialist in serverless (Lambda/Fargate), security, and infrastructure as code (CDK).
+- **Cloud Migration:** Proven track record in migrating complex legacy stacks (Azure/Ghost) to modern AWS/Hugo architectures.
 
-## 🤖 Artificial Intelligence
-- **Generative AI:** Practical application of Amazon Bedrock, Claude 3, and AI-assisted development (GitHub Copilot).
+## 🤖 AI Orchestration
+- **Agentic Frameworks:** Deep knowledge of multi-agent systems, parallel reviews, and LLM skill-building.
+- **AI-Assisted Development:** Optimizing developer inner loops with Copilot and custom agents.
 
-## 🏘️ Community & Governance
-- **Grassroots Leadership:** Expertise in supporter culture management and non-profit/HOA board governance.
+## 🏘️ Community Governance
+- **Leadership:** Expertise in managing non-profit boards, HOA facilities, and large-scale independent fan organizations (ECS).

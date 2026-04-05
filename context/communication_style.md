@@ -1,9 +1,10 @@
 # Communication Style
 
-## 🎨 Tone & Approach
-- **Empathetic:** I avoid judging varying levels of cloud readiness. I focus on understanding the "why" before proposing the "how."
-- **Approachable:** I translate complex technical concepts into relatable narratives for both engineers and executives.
+## 🎨 Tone & Philosophy
+- **"The Brougham 22" Style:** Direct, empathetic, and highly structured.
+- **Engineering Rigor:** I prefer agents and collaborators who challenge assumptions and designs rather than offering simple "yes" responses.
+- **Approachable Complexity:** I value the ability to explain high-level AI orchestration in a way that is actionable for engineering teams.
 
 ## 📝 Preferences
-- **Structure:** Direct and highly structured output.
-- **Medium:** I value clear, written documentation that serves as a persistent source of truth.
+- **Documentation:** "Teaching the AI to think" through clear, version-controlled Markdown instructions.
+- **English Only:** All communications and translations must be strictly in English.

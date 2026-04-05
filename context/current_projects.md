@@ -1,8 +1,9 @@
 # Current Projects
 
 ## 🚀 Active
-- **Personal Context Portfolio:** Building a centralized, secure, and public-facing repository of professional and personal context (this repo).
-- **AI & Cloud Research:** Exploring AWS DevOps agents, Google Gemini capabilities, GitHub MCP integrations, and .NET SDK environments.
+- **Kiro Agentic AI:** Continuous development of the Kiro framework, focusing on multi-agent reviews and automated engineering skills.
+- **Personal Context Portfolio:** Building this centralized, secure source of truth for AI-driven collaboration.
+- **Blog Evolution:** Recently completed a migration of my professional blog (https://keith.thehodos.com) to a modern **Hugo/AWS stack** using CDK, S3, and CloudFront.
 
 ## ⏸️ Paused
-- **ExtraLife Admin Portal:** A development and administration project for charity event management (Paused as of March 2026 to focus on AI/Cloud research).
+- **ExtraLife Admin Portal:** Paused to reallocate resources toward Agentic AI and MCP research.
