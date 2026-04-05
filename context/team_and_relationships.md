@@ -1,13 +1,12 @@
 # Team & Relationships
 
 ## 🏠 Family
-- **Lara (Wife)**
-- **Theo (Son)**
-- **Gracie (Pet)**
+- **Lara (Wife)**, **Theo (Son)**, and **Gracie (Pet)**.
 
 ## 💼 Professional & Community
-- **Strategic Partners:** Deloitte, SAP, and the AWS TMT team.
-- **Soccer Community:** Deep ties with the **Seattle Sounders FC** front office and the **Emerald City Supporters (ECS)** network.
+- **AWS TMT Team:** Collaborating on enterprise solutions for the US and Canada.
+- **Strategic Partners:** Deloitte, SAP, and the broader AWS Partner Network (APN).
+- **Seattle Soccer:** Deeply connected to the **Sounders FC** front office and the **ECS** (Emerald City Supporters) leadership network.
 
-## 🤝 Friends & Network
-- **Inner Circle:** Kevin, Rommel Alcobendas, Robby Branom, Dan Gossett, Timm Blakley, and Chip Quinn.
+## 🤝 Friends
+- **Network:** Kevin, Rommel Alcobendas, Robby Branom, Dan Gossett, Timm Blakley, Alex Wood (Kiro collaborator), and Chip Quinn.

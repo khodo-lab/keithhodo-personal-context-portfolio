@@ -1,14 +1,13 @@
 # Tools & Systems
 
-## 📱 Hardware
-- **Primary Mobile:** Google Pixel 9.
+## 📱 Hardware & Mobile
+- **Google Pixel 9** (Primary).
 
-## 💻 Tech Stack
-- **Cloud:** Amazon Web Services (AWS), Microsoft Azure.
-- **AI/LLMs:** Google Gemini, Amazon Bedrock, Claude 3.
-- **DevOps/SCM:** GitHub, GitHub Copilot.
-- **Languages:** Python, .NET.
+## 💻 Tech Stack & Frameworks
+- **Cloud:** AWS (CDK, S3, CloudFront, Lambda, Bedrock), Microsoft Azure (Functions, Service Bus).
+- **AI/LLMs:** Google Gemini, Amazon Bedrock (Claude 3), GitHub Copilot, Kiro (Agentic Framework).
+- **Languages:** Python, .NET (C#), TypeScript.
 
-## 🏷️ Affiliations & Memberships
+## 🏷️ Affiliations
 - **Professional:** Association for Computing Machinery (ACM).
-- **Travel:** Hilton Honors (Member), Alaska Airlines (Atmos Silver Elite).
+- **Travel:** Hilton Honors, Alaska Airlines (Atmos Silver Elite).
